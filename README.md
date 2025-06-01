@@ -1,5 +1,7 @@
 🔐 Firewall Configuration – UFW (Linux) & Windows Firewall
+
 📘 Overview
+
 This report covers practical steps to configure firewalls on both Linux systems using UFW (Uncomplicated Firewall) and Windows systems using Windows Defender Firewall. The focus is on demonstrating how to:
 
 List existing firewall rules
